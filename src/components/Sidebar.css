@@ -1,0 +1,17 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+li{
+    color: rgb(0, 204, 231);
+    font-style: italic;
+    transition: .5s;
+}
+li:hover{
+    text-decoration: underline;
+    color: rgb(0, 133, 151);
+}
+aside{
+    margin-bottom: 1rem;
+}

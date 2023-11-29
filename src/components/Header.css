@@ -1,0 +1,14 @@
+header{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: rgb(0, 204, 231);
+    background-color: rgb(218, 242, 245);
+    height: 100px;
+    border: 1px solid rgb(0, 204, 231);
+    margin-bottom: 1rem;
+}
+
+img{
+    max-width: 100%;
+}

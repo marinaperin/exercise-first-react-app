@@ -1,0 +1,18 @@
+img{
+    max-width: 100%;
+    padding: .5rem;
+}
+figure{
+    background-color: rgb(218, 242, 245);
+    border: 1px solid rgb(0, 204, 231);
+    text-align: center;
+    color: rgb(0, 133, 151);
+    transition: .5s ease-in;
+    padding: .5rem;
+}
+figure:hover{
+    text-decoration: underline;
+    background-color: rgb(0, 133, 151);
+    color: white;
+    font-style: italic;
+}
