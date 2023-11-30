@@ -1,5 +1,5 @@
 import './Main.css';
-import Img from './Img';
+import Img from '../Img/Img';
 
 const Main = ()=>{
     return(

@@ -1,17 +1,23 @@
-ul{
+menu{
     list-style-type: none;
     display: flex;
     justify-content: space-around;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 204, 231);
+
 }
 li{
     color: rgb(0, 204, 231);
     font-style: italic;
     transition: .5s;
 }
-li:hover{
+a:hover{
     text-decoration: underline;
     color: rgb(0, 133, 151);
 }
-aside{
+nav{
     margin-bottom: 1rem;
 }
